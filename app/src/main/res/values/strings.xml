@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertisseur de Monnaie</string>
+    <string name="message_1">Super Convert</string>
+    <string name="message_2">EURO</string>
+    <string name="message_3">USD</string>
+    <string name="message_5">150</string>
+    <string name="message_4">CONVERTIR</string>
+    <string name="taux">TAUX</string>
+</resources>
